@@ -1,11 +1,10 @@
 <?php
 
- $dbname="userinfo";
-$servername = "localhost";
-
- $username = "root";
- $password = "";
-
+ $dbname="mnn3DuiWVG";
+ $servername = "remotemysql.com";
+ 
+  $username = "mnn3DuiWVG";
+  $password = "QGUIlK3i0D";
 
 
 
